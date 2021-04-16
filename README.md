@@ -9,7 +9,7 @@ Your challenge is to create an application that lets users create a shopping lis
 ## Code overview
 * 
 ## Credit
-[Hackingwithswift Milestone project 4 - 6]("www.hackingwithswift.com/100/32")
+[Hackingwithswift Milestone project 4 - 6](https://www.hackingwithswift.com/100/32) 
 
 ## Swift topics
 * 
