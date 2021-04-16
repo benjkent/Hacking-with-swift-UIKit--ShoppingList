@@ -19,6 +19,6 @@ Your challenge is to create an application that lets users create a shopping lis
 | viewController | viewController | viewController | 
 | :---------------: | :---------------: | :--------------:  |
 | empty table     | Add item         | Remove all  |
-| <img src=" " > | <img src=" "> | <img src=" "> |
+| <img src="https://github.com/benjkent/Hacking-with-swift-UIKit--ShoppingList/blob/main/screenshots/emptyTableList.png " > | <img src="https://github.com/benjkent/Hacking-with-swift-UIKit--ShoppingList/blob/main/screenshots/ItemsAdded.png"> | <img src="https://github.com/benjkent/Hacking-with-swift-UIKit--ShoppingList/blob/main/screenshots/ListCleared.png"> |
 
 
